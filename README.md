@@ -1,10 +1,10 @@
-# Hall Booking & Creation System
+# Mentor-Student Node.js App
 
-Welcome to the Hall Booking & Creation System! This Node.js project allows users to book and create halls for various events.
+Welcome to the Mentor-Student Node.js App repository! This project is designed to facilitate mentor-student interactions.
 
 ## Overview
 
-The Hall Booking & Creation System is designed to simplify the process of booking and creating halls for events. Whether it's a conference, wedding, or any other gathering, this system streamlines the reservation process.
+The Mentor-Student Node.js App is a web application built with Node.js, Express, and MongoDB. It allows mentors to connect with students.
 
 
 ## Usage
